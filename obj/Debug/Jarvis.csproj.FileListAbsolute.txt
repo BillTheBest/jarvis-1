@@ -1,0 +1,6 @@
+c:\users\shreyas\documents\visual studio 2015\Projects\Jarvis\bin\Debug\Jarvis.exe.config
+c:\users\shreyas\documents\visual studio 2015\Projects\Jarvis\bin\Debug\Jarvis.exe
+c:\users\shreyas\documents\visual studio 2015\Projects\Jarvis\bin\Debug\Jarvis.pdb
+c:\users\shreyas\documents\visual studio 2015\Projects\Jarvis\obj\Debug\Jarvis.csprojResolveAssemblyReference.cache
+c:\users\shreyas\documents\visual studio 2015\Projects\Jarvis\obj\Debug\Jarvis.exe
+c:\users\shreyas\documents\visual studio 2015\Projects\Jarvis\obj\Debug\Jarvis.pdb
